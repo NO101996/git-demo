@@ -19,7 +19,4 @@ hello git test
 hello git
 hello git master test
 hello git hot-fix test
-111
-222 by Tester
-333 alter test
-444 again
+no test
